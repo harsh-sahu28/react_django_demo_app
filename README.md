@@ -4,4 +4,4 @@ A demo app for React and Django Deployment
 docker-compose down
 docker-compose up -d
 
-OR Run by docker
+OR Run by docker up
